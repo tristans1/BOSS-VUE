@@ -1,0 +1,92 @@
+[
+  {
+        "id": "1",
+        "titre": "PEE WEE BIG ADVENTURE",
+        "annee": "1987",
+        "affiche": "https://i2.wp.com/www.filmspourenfants.net/wp-content/uploads/2018/07/pee-wee-sbig-adventure-a.jpg?fit=555%2C688&ssl=1",
+        "synopsis": "Pee Wee, un adulte qui ressemble à un enfant, s'apprête à passer une belle journée avec l'amour de sa vie : sa bicyclette. Mais cet objet vient d'être volé par le méchant Francis. Pee Wee part à la recherche de son amour perdu et nous entraîne dans des aventures de plus en plus burlesques.",
+        "acteurs": "Paul Reubeuns, Mark Holton, Diane Salinger",
+        "genre" : "Comédie",
+        "pays" : "Anglais"
+      },
+      {
+        "id": "2",
+        "titre": "BeetleJuice",
+        "annee": "1988",
+        "affiche": "https://fr.web.img3.acsta.net/pictures/18/10/18/09/47/5083109.jpg",
+        "synopsis": "Pour avoir voulu sauver un chien, Adam et Barbara Maitland passent tout de go dans l'autre monde. Peu après, occupants invisibles de leur antique demeure ils la voient envahie par une riche et bruyante famille new-yorkaise. Rien à redire jusqu'au jour où cette honorable famille entreprend de donner un cachet plus urbain à la vieille demeure.",
+        "acteurs": "Michael Keaton, Winona Ryder, Alec Baldwin",
+        "genre": "Comédie",
+        "pays": "Américain"
+      },
+      {
+        "id": "3",
+        "titre": "Edward aux mains d'argent",
+        "annee": "1991",
+        "affiche": "https://images-na.ssl-images-amazon.com/images/I/61KTRh3Nw-L._AC_SL1200_.jpg",
+        "synopsis": "Edward Scissorhands n'est pas un garçon ordinaire. Création d'un inventeur, il a reçu un cœur pour aimer, un cerveau pour comprendre. Mais son concepteur est mort avant d'avoir pu terminer son œuvre et Edward se retrouve avec des lames de métal et des instruments tranchants en guise de doigts.",
+        "acteurs": "Johnny Depp, Winona Ryder, Dianne Wiest",
+        "genre": "Fantastique, Comédie",
+        "pays": "Américain"
+      },
+      {
+        "id": "4",
+        "titre": "Les noces funèbres",
+        "annee": "2005",
+        "affiche": "https://fr.web.img4.acsta.net/medias/nmedia/18/35/52/33/18449288.jpg",
+        "synopsis": "Au XIXe siècle, dans un petit village d'Europe de l'est, Victor, un jeune homme, découvre le monde de l'au-delà après avoir épousé, sans le vouloir, le cadavre d'une mystérieuse mariée. Pendant son voyage, sa promise, Victoria l'attend désespérément dans le monde des vivants. ",
+        "acteurs": "Johnny Depp, Helena Bonham Carter, Emily Watson",
+        "genre": "Animation, Fantastique",
+        "pays": "Américain"
+      },
+      {
+        "id": "5",
+        "titre": "Charlie et la chocolaterie",
+        "annee": "2005",
+        "affiche": "https://img.over-blog-kiwi.com/0/95/23/27/20180507/ob_1cadce_83898.jpg",
+        "synopsis": "Charlie est un enfant issu d'une famille pauvre. Travaillant pour subvenir aux besoins des siens, il doit économiser chaque penny, et ne peut s'offrir les friandises dont raffolent les enfants de son âge. Pour obtenir son comptant de sucreries, il participe à un concours organisé par l'inquiétant Willy Wonka, le propriétaire de la fabrique de chocolat de la ville. ",
+        "acteurs": "Brigitte Millar, Johnny Depp, Freddie Highmore",
+        "genre": "Comédie, Fantastique, Famille",
+        "pays": "Américain, Britannique"
+      },
+      {
+        "id": "6",
+        "titre": "Alice aux pays des merveilles",
+        "annee": "2003",
+        "affiche": "https://p0.storage.canalblog.com/06/36/377445/51686819.jpg",
+        "synopsis": "Alice, désormais âgée de 19 ans, retourne dans le monde fantastique qu'elle a découvert quand elle était enfant. Elle y retrouve ses amis le Lapin Blanc, Bonnet Blanc et Blanc Bonnet, le Loir, la Chenille, le Chat du Cheshire et, bien entendu, le Chapelier Fou. Alice s'embarque alors dans une aventure extraordinaire où elle accomplira son destin : mettre fin au règne de terreur de la Reine Rouge.",
+        "acteurs": "Johnny Depp, Mia Wasikowska, Matt Lucas",
+        "genre": " Fantastique, Aventure",
+        "pays": "Américain"
+      },
+      {
+        "id": "7",
+        "titre": "FRANKENWEENIE",
+        "annee": "2012",
+        "affiche": "https://fr.web.img5.acsta.net/medias/nmedia/18/85/69/55/20127907.jpg",
+        "synopsis": "Après la mort soudaine de Sparky, son chien adoré, le jeune Victor fait appel au pouvoir de la science afin de ramener à la vie celui qui était aussi son meilleur ami. Il lui apporte au passage quelques modifications de son cru…",
+        "acteurs": "Charlie Tahan, Winona Ryder, Martin Landau",
+        "genre": " Animation, Comédie, Science fiction",
+        "pays": "Américain"
+      },
+  {
+    "id": "8",
+    "titre": "Dark Shadows",
+    "annee": "2012",
+    "affiche": "https://fr.web.img6.acsta.net/medias/nmedia/18/86/05/49/20078610.jpg",
+    "synopsis": "En 1752, Joshua et Naomi Collins quittent Liverpool, en Angleterre, pour prendre la mer avec leur jeune fils Barnabas, et commencer une nouvelle vie en Amérique. Mais même un océan ne parvient pas à les éloigner de la terrible malédiction qui s’est abattue sur leur famille. Vingt années passent et Barnabas a le monde à ses pieds, ou du moins la ville de Collinsport, dans le Maine.",
+    "acteurs": "Johnny Depp, Michelle Pfeiffer, Helena Bonham Carter",
+    "genre": " Fantastique, Comédie",
+    "pays": "Américain"
+  },
+      {
+        "id": "9",
+        "titre": "Dumbo",
+        "annee": "2019",
+        "affiche": "https://fr.web.img6.acsta.net/r_1280_720/newsv7/19/01/30/12/41/32118470.jpg",
+        "synopsis": "Les enfants de Holt Farrier, ex-artiste de cirque chargé de s’occuper d’un éléphanteau dont les oreilles démesurées sont la risée du public, découvrent que ce dernier sait voler...",
+        "acteurs": "Colin Farrell, Danny DeVito, Michael Keaton",
+        "genre": " Fantastique, Aventure",
+        "pays": "Américain"
+      }
+]

@@ -1,0 +1,42 @@
+[
+      {
+        "id": "1",
+        "titre": "The Island of Doctor Agor",
+        "annee": "1971",
+        "affiche": "https://i.skyrock.net/9216/39019216/pics/1532766362.gif",
+        "synopsis": "The Island of Doctor Agor est un court métrage américain écrit et réalisé par Tim Burton, alors âgé de 13 ans. Il s'agit d'une adaptation du récit L'Île du docteur Moreau de H. G. Wells. Il a été filmé avec une caméra Super 8 et on peut noter la présence d'amis de Tim Burton. ",
+        "acteurs": "Aucun",
+        "genre": "Animation",
+        "pays": "Américain"
+      },
+      {
+        "id": "2",
+        "titre": "Doctor of Doom",
+        "annee": "1979",
+        "affiche": "https://media.senscritique.com/media/000017075843/source_big/Doctor_Of_Doom.jpg",
+        "synopsis": "Un médecin se rend à un diner, mais les invités se moquent de lui. Une fois rentré chez lui, il crée un monstre pour se venger.",
+        "acteurs": "Brad Bird, Chris Buck, Michael Giaimo",
+        "genre": "Animation",
+        "pays": "Américain"
+      },
+      {
+        "id": "3",
+        "titre": "Vincent",
+        "annee": "1982",
+        "affiche": "https://lecafeculturel.files.wordpress.com/2019/02/vincent_burton.jpg",
+        "synopsis": "Vincent Malloy est un petit garçon de 7 ans, qui n'a qu'un seul rêve : être Vincent Price, acteur à la voix ténébreuse coutumier des films d'épouvante. C'est ainsi que, sous son apparence d'enfant bien élevé, c'est un grand amateur de la littérature d'Edgar Allan Poe et il rêve de transformer son chien en zombie, faire de sa tante une poupée de cire et il imagine aussi vérifier si son épouse enterrée vivante est bien morte.",
+        "acteurs": "Vincent Price",
+        "genre": "Animation, Épouvante",
+        "pays": "Américain"
+      },
+      {
+        "id": "4",
+        "titre": "Frankenweenie",
+        "annee": "1984",
+        "affiche": "https://www.aveleyman.com/Gallery/2017/Misc/8a15e5ea-858c-463c-94f2-8120666e2e3c.jpg",
+        "synopsis": "Frankenweenie est un court-métrage de Tim Burton, sorti aux États-Unis le 14 décembre 1984, qui s'inspire de Frankenstein, version canine. Une version en long métrage a été réalisée en 2012 : Frankenweenie.",
+        "acteurs": "Shelley Duvall, Daniel Stern, Barret Oliver",
+        "genre": "Fantastique",
+        "pays": "Américain"
+      }
+]

@@ -1,0 +1,48 @@
+@import url('https://fonts.googleapis.com/css2?family=Antic+Didone&display=swap');
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+a,
+a:hover {
+  text-decoration: none;
+}
+
+li {
+  list-style: none;
+}
+
+#arrow {
+  width: 100px;
+
+}
+
+body {
+  font-family: "Open Sans", sans-serif;
+}
+
+h1 {
+  letter-spacing: .1rem;
+  font-family: 'Antic Didone', sans-serif;
+  color: #111012;
+}
+
+h2 {
+  font-size: 20px;
+  letter-spacing: .2rem;
+  font-weight: bold;
+}
+
+p {
+  font-size: 14px;
+  letter-spacing: .1rem;
+}
+
+span {
+  font-size: 14px;
+  letter-spacing: .1rem;
+  font-weight: lighter;
+}
